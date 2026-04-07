@@ -14,7 +14,7 @@ export default function Hero() {
   // Countdown logic and redirect
   useEffect(() => {
     if (countdown === 0) {
-      router.push('https://www.fabricaible.com');
+      router.push('https://www.boldbobbin.com');
       return;
     }
 
@@ -138,12 +138,12 @@ export default function Hero() {
                 animate="visible"
               >
                 <Link
-                  href="https://www.fabricaible.com"
+                  href="https://www.boldbobbin.com"
                   className="h1 text-rose-400 hover:text-rose-600 underline underline-offset-4 transition"
-                  target="https://www.fabricaible.com"
+                  target="https://www.boldbobbin.com"
                   rel="noopener noreferrer"
                 >
-                  fabricaible.com
+                  boldbobbin.com
                 </Link>
               </motion.div>
               <motion.p

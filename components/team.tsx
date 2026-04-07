@@ -25,7 +25,7 @@ export default function Team() {
             <Image className="rounded-full" src={TeamImage01} width={128} height={128} alt="TeamImage 01" />
             <h4 className="h4 mb-2">Alexandre Binninger</h4>
             <p className="text-lg text-gray-400 text-center">Co-Founder</p>
-            <p className="text-lg text-gray-400 text-center">Ph.D. student in Computer Graphics <br/>ETH Zurich</p>
+            <p className="text-lg text-gray-400 text-center">Ph.D. in Computer Graphics <br/>ETH Zurich</p>
           </div>
 
           {/* 2nd item */}
